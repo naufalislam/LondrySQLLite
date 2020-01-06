@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Londry</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_buatbiodata">Form Pesanan Baru</string>
+    <string name="title_activity_lihatbiodata">Lihat Pesanan</string>
+    <string name="title_activity_updatebiodata">Update Pesanan</string>
+</resources>
